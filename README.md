@@ -3,8 +3,7 @@
 Maak een applicatie om de gegevens in te lezen, de punten te verwerken
 en de resultaten terug weg te schrijven.
 
-![](./media/image1.png){width="6.291666666666667in"
-height="3.5208333333333335in"}
+![](./media/image1.png)
 
 Je maakt voor deze toepassing eerst de (basis)klasse **PuntenAdmin** met
 volgende [eigenschappen]{.underline}:
@@ -33,13 +32,11 @@ De klasse Punten bevat volgende [methods]{.underline}:
     "Niet geslaagd")
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
-gegenereerde beschrijving](./media/image2.png){width="6.3in"
-height="3.5506944444444444in"}
+gegenereerde beschrijving](./media/image2.png)
 
 ![Afbeelding met tekst, elektronica, schermopname, scherm Automatisch
 gegenereerde
-beschrijving](./media/image3.png){width="6.399305555555555in"
-height="4.103472222222222in"}
+beschrijving](./media/image3.png)
 
 De knop *Inlezen* leest o.b.v. een OpenFileDialog een bestand in. Van
 elk record in dit bestand wordt een instance gemaakt van de klasse
@@ -56,19 +53,16 @@ worden.
 
 ![Afbeelding met tekst, schermopname, Lettertype, software Automatisch
 gegenereerde
-beschrijving](./media/image4.png){width="3.9484678477690287in"
-height="1.791917104111986in"}
+beschrijving](./media/image4.png)
 
 Na het correct wegschrijven wordt een bericht getoond.
 
 ![Afbeelding met tekst, schermopname, Lettertype, software Automatisch
 gegenereerde
-beschrijving](./media/image5.png){width="4.1672484689413825in"
-height="1.6564807524059493in"}
+beschrijving](./media/image5.png)
 
 De knop *Nalezen* laat een bestand openen met een OpenFileDialog scherm
 en toont dit in het tekstvak.
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
-gegenereerde beschrijving](./media/image6.png){width="6.3in"
-height="3.5506944444444444in"}
+gegenereerde beschrijving](./media/image6.png)
